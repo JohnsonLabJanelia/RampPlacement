@@ -1,0 +1,10 @@
+{
+    "name": "org.johnson-lab-janelia.ramp-placement",
+    "displayName": "Ramp Placement",
+    "version": "1.0.0",
+    "unity": "2021.1",
+    "description": "High throughput placement of ramps for experiments.",
+    "keywords": [],
+    "dependencies": {
+    }
+}
